@@ -1,0 +1,21 @@
+# Hi, I'm Danishiyan
+
+I'm a BSc (Hons) IT student at SLIIT, Sri Lanka, specialising in Artificial Intelligence.
+I'm working towards an AI/ML or Cloud AI engineering internship.
+
+## Now
+Building **dengue-early-warning**: forecasting weekly dengue cases for Sri Lankan
+districts from case and weather data. Learning FastAPI, Docker and Azure along the way.
+
+## Projects
+| Project | What it does | Tech |
+|---|---|---|
+| [letter-recognition-ml](https://github.com/Danishiyan/letter-recognition-ml) | Recognises the 26 capital letters from 16 shape features. Compared 7 models; best was an SVM with 97.3% test accuracy. | Python, scikit-learn, pandas |
+| [Ceylon Trails](https://github.com/it25103191/Y2-S1-MLB-B11G2-05) (team of 6) | Safari trip management system. I built the package catalogue and booking backend, using the Observer pattern for cancellations. | Java, Spring Boot, SQL Server, React |
+| [dengue-early-warning](https://github.com/Danishiyan/dengue-early-warning) | In progress | Python |
+
+## Tools
+Python · scikit-learn · pandas · NumPy · Matplotlib · Java · Spring Boot · SQL · Git · Azure (learning)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/danishiyan-g-j-b65190347)

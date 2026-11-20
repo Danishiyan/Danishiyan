@@ -12,6 +12,7 @@ districts from case and weather data. Learning FastAPI, Docker and Azure along t
 |---|---|---|
 | [letter-recognition-ml](https://github.com/Danishiyan/letter-recognition-ml) | Recognises the 26 capital letters from 16 shape features. Compared 7 models; best was an SVM with 97.3% test accuracy. | Python, scikit-learn, pandas |
 | [Ceylon Trails](https://github.com/it25103191/Y2-S1-MLB-B11G2-05) (team of 6) | Safari trip management system. I built the package catalogue and booking backend, using the Observer pattern for cancellations. | Java, Spring Boot, SQL Server, React |
+| [OCEANWAVE](https://github.com/ashendrade/Tourism-Package-Customization-Platform) (team) | Tourism package customisation platform. I built the package customisation module: CRUD, pricing and budget logic, and a REST API, using the repository pattern. | Java, Spring Boot, JSP |
 | [dengue-early-warning](https://github.com/Danishiyan/dengue-early-warning) | In progress | Python |
 | [Eco Bin](https://github.com/Danishiyan/eco-bin-smart-waste-segregation) (team of 6) | Arduino bin that sorts metal, wet and dry waste with sensors, a stepper motor and a servo. I co-wrote the sensor and sorting code. | Arduino, C++ |
 

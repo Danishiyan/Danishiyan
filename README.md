@@ -21,3 +21,5 @@ Python · scikit-learn · pandas · NumPy · Matplotlib · Java · Spring Boot �
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/danishiyan-gj)
+
+University coursework account (team projects like OCEANWAVE): [github.com/IT25101436](https://github.com/IT25101436)

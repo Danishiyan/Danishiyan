@@ -4,14 +4,14 @@ I'm a BSc (Hons) IT student at SLIIT, Sri Lanka, specialising in Artificial Inte
 I'm working towards an AI/ML or Cloud AI engineering internship.
 
 ## Now
-Building **dengue-early-warning**: forecasting weekly dengue cases for Sri Lankan
-districts from case and weather data. Learning FastAPI, Docker and Azure along the way.
+Building **dengue-early-warning**: forecasting next week's dengue cases for 26 Sri Lankan
+health areas from Ministry of Health weekly data (weather data planned for v2). Learning FastAPI, Docker and Azure along the way.
 
 ## Projects
 | Project | What it does | Tech |
 |---|---|---|
 | [letter-recognition-ml](https://github.com/Danishiyan/letter-recognition-ml) | Recognises the 26 capital letters from 16 shape features. Compared 7 models; best was an SVM with 97.3% test accuracy. | Python, scikit-learn, pandas |
-| [dengue-early-warning](https://github.com/Danishiyan/dengue-early-warning) (in progress) | Aims to forecast weekly dengue cases for 26 Sri Lankan districts using 2006–2026 case data and weather. Plan: baseline models, FastAPI service, Docker, Azure deployment. | Python, pandas, scikit-learn |
+| [dengue-early-warning](https://github.com/Danishiyan/dengue-early-warning) (in progress) | Aims to forecast next week's dengue cases for 26 Sri Lankan health areas (25 districts + Kalmunai) from Ministry of Health weekly data, 2010–2026. Done: data pipeline, EDA (two monsoon peaks), lag features with unit tests. Next: baselines, ML model, FastAPI, Docker, Azure. | Python, pandas, matplotlib, pytest |
 | [Ceylon Trails](https://github.com/Danishiyan/ceylon-trails-safari-management) (team of 6) | Safari trip management system. I built the package catalogue and booking backend, using the Observer pattern for cancellations. | Java, Spring Boot, SQL Server, React |
 | [OCEANWAVE](https://github.com/Danishiyan/oceanwave-tourism-platform) (team) | Tourism package customisation platform. I built the package customisation module: CRUD, pricing and budget logic, and a REST API, using the repository pattern. | Java, Spring Boot, JSP |
 | [Eco Bin](https://github.com/Danishiyan/eco-bin-smart-waste-segregation) (team of 6) | Arduino bin that sorts metal, wet and dry waste with sensors, a stepper motor and a servo. I co-wrote the sensor and sorting code. | Arduino, C++ |

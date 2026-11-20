@@ -11,7 +11,7 @@ districts from case and weather data. Learning FastAPI, Docker and Azure along t
 | Project | What it does | Tech |
 |---|---|---|
 | [letter-recognition-ml](https://github.com/Danishiyan/letter-recognition-ml) | Recognises the 26 capital letters from 16 shape features. Compared 7 models; best was an SVM with 97.3% test accuracy. | Python, scikit-learn, pandas |
-| [Ceylon Trails](https://github.com/it25103191/Y2-S1-MLB-B11G2-05) (team of 6) | Safari trip management system. I built the package catalogue and booking backend, using the Observer pattern for cancellations. | Java, Spring Boot, SQL Server, React |
+| [Ceylon Trails](https://github.com/Danishiyan/ceylon-trails-safari-management) (team of 6) | Safari trip management system. I built the package catalogue and booking backend, using the Observer pattern for cancellations. | Java, Spring Boot, SQL Server, React |
 | [OCEANWAVE](https://github.com/Danishiyan/oceanwave-tourism-platform) (team) | Tourism package customisation platform. I built the package customisation module: CRUD, pricing and budget logic, and a REST API, using the repository pattern. | Java, Spring Boot, JSP |
 | [dengue-early-warning](https://github.com/Danishiyan/dengue-early-warning) | In progress | Python |
 | [Eco Bin](https://github.com/Danishiyan/eco-bin-smart-waste-segregation) (team of 6) | Arduino bin that sorts metal, wet and dry waste with sensors, a stepper motor and a servo. I co-wrote the sensor and sorting code. | Arduino, C++ |
@@ -22,4 +22,4 @@ Python · scikit-learn · pandas · NumPy · Matplotlib · Java · Spring Boot �
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/danishiyan-gj)
 
-University coursework account (team projects like OCEANWAVE): [github.com/IT25101436](https://github.com/IT25101436)
+My commits in team projects (OCEANWAVE, Ceylon Trails) appear under my university coursework account, [IT25101436](https://github.com/IT25101436).

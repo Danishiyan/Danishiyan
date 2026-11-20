@@ -18,4 +18,4 @@ districts from case and weather data. Learning FastAPI, Docker and Azure along t
 Python · scikit-learn · pandas · NumPy · Matplotlib · Java · Spring Boot · SQL · Git · Azure (learning)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/danishiyan-g-j-b65190347)
+[LinkedIn](https://www.linkedin.com/in/danishiyan-gj)

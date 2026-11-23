@@ -1,6 +1,6 @@
 # Hi, I'm Danishiyan
 
-I'm a BSc (Hons) IT student at SLIIT, Sri Lanka, specialising in Artificial Intelligence.
+I'm studying for a **BSc (Hons) in Information Technology Specialising in Artificial Intelligence** at the Sri Lanka Institute of Information Technology (SLIIT).
 I'm working towards an AI/ML or Cloud AI engineering internship.
 
 ## Now

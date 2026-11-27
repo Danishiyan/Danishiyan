@@ -27,6 +27,7 @@ Python · scikit-learn · pandas · NumPy · Matplotlib · FastAPI · Docker · 
 ## Contact
 
 📧 **Email:** jeyakumardanishiyan2004@gmail.com
+
 💼 **LinkedIn:** [linkedin.com/in/danishiyan-gj](https://www.linkedin.com/in/danishiyan-gj)
 
 My commits in team projects (OCEANWAVE, Ceylon Trails) appear under my university coursework account, [IT25101436](https://github.com/IT25101436).

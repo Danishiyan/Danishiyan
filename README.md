@@ -25,6 +25,8 @@ health areas from Ministry of Health weekly data (weather data planned for v2). 
 Python · scikit-learn · pandas · NumPy · Matplotlib · FastAPI · Docker · MLflow · Java · Spring Boot · SQL · Git · Oracle Cloud (OCI) · Azure (learning)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/danishiyan-gj)
+
+📧 **Email:** jeyakumardanishiyan2004@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/danishiyan-gj](https://www.linkedin.com/in/danishiyan-gj)
 
 My commits in team projects (OCEANWAVE, Ceylon Trails) appear under my university coursework account, [IT25101436](https://github.com/IT25101436).
